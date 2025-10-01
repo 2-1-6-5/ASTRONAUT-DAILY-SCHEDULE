@@ -36,13 +36,15 @@ The Astronaut Daily Schedule Organizer (Exercise 2) includes the following core 
 1. Exercise 1: Pattern Implementations
 This section contains clean, isolated examples of various design patterns, organized by category:
 
-Category	  Pattern Implemented	     Folder	                       Purpose
-Behavioural	  Command Pattern	    command_pattern_demo/	Demonstrates encapsulating a request as an object.        
-Behavioural   Memento Pattern	    memento_patter/	        Shows how to save and restore an object's state.        
-Creational	  Builder Pattern	    Builder_pattern/	    Demonstrates constructing a complex object step-by-step.        
-Creational	  Singleton Pattern	    singleton_pattern/	    Ensures a class has only one instance.        
-Structural	  Composite Pattern	    composite_pattern/	    Demonstrates composing objects into tree structures.        
-Structural	  Decorator Pattern	    decorator_pattern/	    Shows how to add responsibilities to objects dynamically.         
+| Category    | Pattern Implemented | Folder                  | Purpose                                                   |
+| ----------- | ------------------- | ----------------------- | --------------------------------------------------------- |
+| Behavioural | Command Pattern     | `command_pattern_demo/` | Demonstrates encapsulating a request as an object.        |
+| Behavioural | Memento Pattern     | `memento_patter/`       | Shows how to save and restore an object's state.          |
+| Creational  | Builder Pattern     | `Builder_pattern/`      | Demonstrates constructing a complex object step-by-step.  |
+| Creational  | Singleton Pattern   | `singleton_pattern/`    | Ensures a class has only one instance.                    |
+| Structural  | Composite Pattern   | `composite_pattern/`    | Demonstrates composing objects into tree structures.      |
+| Structural  | Decorator Pattern   | `decorator_pattern/`    | Shows how to add responsibilities to objects dynamically. |
+         
 
 ## 📂 Repository Structure
 ASTRONAUT-DAILY-SCHEDULE/  
