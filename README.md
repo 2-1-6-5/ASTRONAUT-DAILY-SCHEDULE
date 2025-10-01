@@ -45,34 +45,34 @@ Structural	  Composite Pattern	    composite_pattern/	    Demonstrates composing
 Structural	  Decorator Pattern	    decorator_pattern/	    Shows how to add responsibilities to objects dynamically.
 
 ## 📂 Repository Structure
-ASTRONAUT-DAILY-SCHEDULE/
-├── Exercise_1/
-│   ├── Behavioural_Pattern/
-│   │   ├── command_pattern_demo/
-│   │   └── memento_patter/
-│   ├── Creational_Patterns/
-│   │   ├── Builder_pattern/
-│   │   └── singleton_pattern/
-│   └── Structural_Pattern/
-│       ├── composite_pattern/
-│       └── decorator_pattern/
-│
-└── Exercise_2/Astronaut Daily Schedule Organizer/
-    ├── AlertConsole.class
-    ├── AlertConsole.java
-    ├── ConsoleApp.class
-    ├── ConsoleApp.java      <-- Main application entry point
-    ├── ScheduleManager.class
-    ├── ScheduleManager.java
-    ├── Task.class
-    ├── Task.java
-    ├── Task$Priority.class
-    ├── TaskFactory.class
-    ├── TaskFactory.java
-    ├── TaskNotifier.class
-    ├── TaskNotifier.java
-    ├── TaskObserver.class
-    └── TaskObserver.java
+ASTRONAUT-DAILY-SCHEDULE/  
+├── Exercise_1/    
+│   ├── Behavioural_Pattern/  
+│   │   ├── command_pattern_demo/  
+│   │   └── memento_patter/  
+│   ├── Creational_Patterns/  
+│   │   ├── Builder_pattern/  
+│   │   └── singleton_pattern/  
+│   └── Structural_Pattern/  
+│       ├── composite_pattern/  
+│       └── decorator_pattern/  
+│  
+└── Exercise_2/Astronaut Daily Schedule Organizer/   
+    ├── AlertConsole.class   
+    ├── AlertConsole.java  
+    ├── ConsoleApp.class  
+    ├── ConsoleApp.java      <-- Main application entry point  
+    ├── ScheduleManager.class  
+    ├── ScheduleManager.java  
+    ├── Task.class  
+    ├── Task.java  
+    ├── Task$Priority.class  
+    ├── TaskFactory.class  
+    ├── TaskFactory.java  
+    ├── TaskNotifier.class  
+    ├── TaskNotifier.java  
+    ├── TaskObserver.class  
+    └── TaskObserver.java  
     
 
 The project is organized into two main directories corresponding to the two exercises:
