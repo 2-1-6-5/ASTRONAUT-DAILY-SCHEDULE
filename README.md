@@ -10,7 +10,7 @@ This repository contains the deliverables for an assignment focused on software 
 1.  **Exercise 1:** Implementation and demonstration of various software Design Patterns.
 2.  **Exercise 2:** A mini-project simulating an **Astronaut Daily Schedule Organizer**.
 
-**Key Components:**
+**Key Components:** 
 
 * `ConsoleApp.java`: The main entry point for the console application.
 * `ScheduleManager.java`: Handles the core logic for managing the schedule (add, remove, view tasks).
