@@ -10,6 +10,20 @@ This repository contains the deliverables for an assignment focused on software 
 1.  **Exercise 1:** Implementation and demonstration of various software Design Patterns.
 2.  **Exercise 2:** A mini-project simulating an **Astronaut Daily Schedule Organizer**.
 
+
+**🎯 Features**
+The Astronaut Daily Schedule Organizer (Exercise 2) includes the following core functionalities:
+
+✅ Add and manage tasks with defined priorities.
+
+✅ Schedule management (add/view/remove tasks).
+
+✅ Automatic task notification system (Alert Console).
+
+✅ Use of software design patterns for code flexibility and maintainability (Factory, Observer).
+
+✅ Console-based user interface for interaction.
+
 **Key Components:** 
 
 * `ConsoleApp.java`: The main entry point for the console application.
@@ -17,6 +31,18 @@ This repository contains the deliverables for an assignment focused on software 
 * `Task.java`: The primary data structure representing a scheduled activity.
 * `TaskFactory.java`: (Likely using the Factory Pattern) Used for creating different types of tasks.
 * `TaskNotifier.java` / `TaskObserver.java`: (Likely implementing the Observer Pattern) Used for handling alerts and notifications.
+
+**🏗️ Design Patterns Demonstrated**
+1. Exercise 1: Pattern Implementations
+This section contains clean, isolated examples of various design patterns, organized by category:
+
+Category	  Pattern Implemented	     Folder	                       Purpose
+Behavioural	  Command Pattern	    command_pattern_demo/	Demonstrates encapsulating a request as an object.
+Behavioural   Memento Pattern	    memento_patter/	        Shows how to save and restore an object's state.
+Creational	  Builder Pattern	    Builder_pattern/	    Demonstrates constructing a complex object step-by-step.
+Creational	  Singleton Pattern	    singleton_pattern/	    Ensures a class has only one instance.
+Structural	  Composite Pattern	    composite_pattern/	    Demonstrates composing objects into tree structures.
+Structural	  Decorator Pattern	    decorator_pattern/	    Shows how to add responsibilities to objects dynamically.
 
 ## 📂 Repository Structure
 ASTRONAUT-DAILY-SCHEDULE/
